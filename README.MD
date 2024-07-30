@@ -20,7 +20,7 @@ This project is an interactive dashboard that allows you to efficiently visualiz
   - [React](https://reactjs.org/) - Library for building user interfaces
 
 - **Backend:**
-    -[Node.js](https://nodejs.org/) - JavaScript runtime environment.
+    - [Node.js](https://nodejs.org/) - JavaScript runtime environment.
     - [GraphQL](https://graphql.org/) - Query language for APIs, providing a more efficient and flexible alternative to REST.
 
 - **Other Technologies:**
