@@ -3,7 +3,7 @@ import { Text } from "@/components/text";
 import { COMPANIES_LIST_QUERY } from "@/graphql/queries";
 import { Company } from "@/graphql/schema.types";
 import { CompaniesListQuery } from "@/graphql/types";
-import { currencyNumber } from "@/utilities";
+import { currencyNumber } from "@/utilities/utilities";
 import { SearchOutlined } from "@ant-design/icons";
 import {
   CreateButton,
